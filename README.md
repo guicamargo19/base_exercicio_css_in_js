@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Exercício do Módulo CSS in JS
+
+Estilização do projeto totalmente convertida com o aplicação de Styled Components.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
