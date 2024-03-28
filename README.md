@@ -1,9 +1,11 @@
-# Meu Portfólio GitHub
+# EBAC Jobs
+
+<img src="public/jobs.png">
+
+Projeto simples de listagem de empregos fictícios desenvolvido em **ReactJS** com estilização usando **Styled Components**,
+CSS com JavaScript, criando componentes customizados e possui campo de pesquisa funcional.
 
 Projeto desenvolvido no curso de Full Stack Python da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
-
-Projeto simples de listagem de empregos fictícios desenvolvido em ReactJS com estilização usando Styled Components,
-CSS com JavaScript, criando componentes customizados.
 
 ## 🚀 Começando
 
