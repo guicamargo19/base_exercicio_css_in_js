@@ -1,6 +1,8 @@
 # EBAC Jobs
 
-<img src="public/jobs.png">
+## Apresentação do projeto
+
+
 
 Projeto simples de listagem de empregos fictícios desenvolvido em **ReactJS** com estilização usando **Styled Components**,
 CSS com JavaScript, criando componentes customizados e possui campo de pesquisa funcional.

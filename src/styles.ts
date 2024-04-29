@@ -3,8 +3,8 @@ import styled, { createGlobalStyle } from 'styled-components'
 const EstiloGlobal = createGlobalStyle`
 
   :root {
-    --cor-principal: #a7727d;
-    --cor-secundaria: #f9f5e7;
+    --cor-principal: #155956;
+    --cor-secundaria: #e7e7e7;
   }
 
   * {
@@ -16,7 +16,8 @@ const EstiloGlobal = createGlobalStyle`
   }
 
   body {
-    padding-bottom: 120px;
+    background: linear-gradient(to right,#f5f5f5cc,#f5f5f5cc),url(https://servidor-estatico-tan.vercel.app/common-bg.svg);
+    background-position: center;
   }
 `
 export default EstiloGlobal

@@ -6,7 +6,14 @@ export const VagaLi = styled.li`
   color: var(--cor-principal);
   padding: 16px;
   transition: all ease 0.3s;
-  border-radius: 8px;
+
+  h3 {
+    height: 40px;
+  }
+
+  ul {
+    height: 100px;
+  }
 
   &:hover {
     background-color: var(--cor-principal);
@@ -35,7 +42,6 @@ export const Link = styled.a`
   margin-top: 16px;
   font-weight: bold;
   font-size: 14px;
-  border-radius: 8px;
   text-align: center;
 
   @media (max-width: 768px) {
