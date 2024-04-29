@@ -16,7 +16,7 @@ const FormVagas = ({ aoPesquisar }: Props) => {
   return (
     <Form onSubmit={aoEnviarForm}>
       <Campo
-        placeholder="Front-end, fullstack, node, design"
+        placeholder="Front-end, fullstack, node..."
         onChange={(e) => setTermo(e.target.value)}
         type="search"
       />

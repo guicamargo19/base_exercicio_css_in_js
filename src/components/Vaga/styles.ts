@@ -25,6 +25,18 @@ export const VagaLi = styled.li`
     background-color: var(--cor-secundaria);
     color: var(--cor-principal);
   }
+
+  @media (max-width: 767px) {
+    ul {
+      height: 130px;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    ul {
+      height: 130px;
+    }
+  }
 `
 
 export const Title = styled.h3`

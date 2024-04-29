@@ -8,6 +8,7 @@ export const Form = styled.form`
   position: relative;
   display: flex;
   align-items: center;
+  text-align: center;
 
   &::before {
     position: absolute;
@@ -26,9 +27,14 @@ export const Form = styled.form`
     margin: 0 auto;
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 767px) {
     height: auto;
     padding: 24px 0;
+  }
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    height: auto;
+    padding: 48px 0;
   }
 `
 
@@ -36,7 +42,11 @@ export const Title = styled.h2`
   font-family: Gloock, serif;
   font-size: 48px;
 
-  @media (max-width: 768px) {
-    font-size: 32px;
+  @media (max-width: 767px) {
+    font-size: 24px;
+  }
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    font-size: 36px;
   }
 `
