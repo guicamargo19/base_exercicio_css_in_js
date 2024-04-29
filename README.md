@@ -2,7 +2,7 @@
 
 ## Apresentação do projeto
 
-
+https://github.com/guicamargo19/ebac_jobs/assets/133445061/83e4b14e-33a3-4b5f-9ab9-b4ea606e7505
 
 Projeto simples de listagem de empregos fictícios desenvolvido em **ReactJS** com estilização usando **Styled Components**,
 CSS com JavaScript, criando componentes customizados e possui campo de pesquisa funcional.
